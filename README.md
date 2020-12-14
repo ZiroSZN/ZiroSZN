@@ -3,14 +3,24 @@
 <!--
 **ZiroSZN/ZiroSZN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Branden J and I am known as Ziro. I am a 14 y/o and I like to play video games like [Fortnite](https://www.epicgames.com/fortnite/en-US/home) and [Call Of Duty: Warzone](https://www.callofduty.com/warzone), I also like to code on [Github](github.com).
+
+ 
+### - 🔭 Current Projects
+I'm working on ...
+
+- [Cletus](https://github.com/CletusDiscordDevs/Cletus)
+- Shuin
+- Bloxy
+
+I will be working on more projects in the future.
+
+### 📫 How to contact me 
+The only way you can contact me is through discord @**Ziro#9798**.
+
+
+### 🌱 I’m currently learning 
+
+- Javascript
