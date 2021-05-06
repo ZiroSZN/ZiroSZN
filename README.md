@@ -18,9 +18,10 @@ I'm working on ...
 I will be working on more projects in the future.
 
 ### 📫 How to contact me 
-The only way you can contact me is through discord @**Ziro#9798**.
+The only way you can contact me is through discord @**Ziro#9999**.
 
 
 ### 🌱 I’m currently learning 
 
 - Javascript
+- Lua
